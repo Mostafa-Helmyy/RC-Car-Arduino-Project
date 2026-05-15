@@ -28,7 +28,7 @@ The system allows wireless movement control and obstacle detection using an ultr
 
 ## Project Image
 
-![RC Car](images/car.jpg)
+![RC Car](images/car.jpeg)
 
 ---
 
